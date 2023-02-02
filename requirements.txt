@@ -10,6 +10,7 @@ Flask==2.1.1
 h11==0.13.0
 idna==3.3
 importlib-metadata==4.11.3
+inquirer==3.1.2
 itsdangerous==2.1.2
 MarkupSafe==2.1.1
 numpy==1.24.1
