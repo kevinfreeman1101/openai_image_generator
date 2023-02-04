@@ -1,4 +1,6 @@
-# create_image.py
+# create_local_img.py
+
+## Note: this script is not yet ready for use. Will remove this statement when it's fully functional
 
 import os
 import openai
