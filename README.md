@@ -1,4 +1,10 @@
 # How to Use this Script (Linux & Mac Users)
+Many thanks to Martin Breuss for composing the excellent [RealPython](https://realpython.com/generate-images-with-dalle-openai-api/) 
+article that served as the basis for this repo. Check out [his 
+website](https://www.martinbreuss.com/) if you're looking for a 
+seriously talented Pythonista.
+
+## Instructions
 
 1. Use the RealPython instructions [here](https://realpython.com/generate-images-with-dalle-openai-api/#get-your-openai-api-key) to obtain an API key for using Dall-E 2.
 2. Append the following to your ~/.bashrc or ~/.bash_profile:
