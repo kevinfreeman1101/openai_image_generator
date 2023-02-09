@@ -2,7 +2,7 @@
 Many thanks to Martin Breuss for composing the excellent [RealPython](https://realpython.com/generate-images-with-dalle-openai-api/) 
 article that served as the basis for this repo. Check out [his 
 website](https://www.martinbreuss.com/) if you're looking for a 
-seriously talented Pythonista.
+seriously talented Python developer.
 
 ## Instructions
 
