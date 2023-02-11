@@ -6,12 +6,8 @@ from pathlib import Path
 import easygui
 
 longname = easygui.fileopenbox("Choose the JSON B64 file to convert")
-
-DATA_DIR = Path.cwd() / "responses"
 JSON_FILE = Path(longname)
-shortname = "/".join(longname.split("/")[:-1])
 IMAGE_DIR = Path.cwd() / "images" / JSON_FILE.stem
-
 IMAGE_DIR.mkdir(parents=True, exist_ok=True)
 
 with open(JSON_FILE, mode="r", encoding="utf-8") as file:
