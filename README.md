@@ -14,7 +14,7 @@ seriously talented Python developer.
 export OPENAI_API_KEY="replace-this-text-with-your-key"
 ```
 
-3. Source your terminal to load the key into your environment by typing `source ~/.bashrc` or source ~/.bash_profile`, depending on which file your system uses.
+3. Source your terminal to load the key into your environment by typing `source ~/.bashrc` or `source ~/.bash_profile`, depending on which file your system uses.
 
 4. Create a python environment using Python 3.9 and install the libraries listed in requirements.txt . Need help with Python environments? Check out [this](https://realpython.com/python-virtual-environments-a-primer/) tutorial.
 5. With your environment activated, type `pip install openai`
